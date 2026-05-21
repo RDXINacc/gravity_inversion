@@ -34,11 +34,11 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 
 | Notebook | Description |
 |----------|-------------|
-| `constant_density_basin_model1.ipynb` | Calculates the inversion of gravity anomaly for a synthetic sedimentary basin having fixed density contrast with and without noise case (Model 1) |
-| `constant_density_basin_model2.ipynb` | Calculates the inversion of gravity anomaly for a synthetic sedimentary basin having fixed density contrast with and without noise case (Model 2) |
-| `variable_density_basin_model3.ipynb` | Calculates the inversion of gravity anomaly for a synthetic sedimentary basin having varying density contrast with and without noise case (Model 3) |
-| `variable_density_basin_model4.ipynb` | Calculates the inversion of gravity anomaly for a synthetic sedimentary basin having varying density contrast with and without noise case (Model 4) |
-| `Inversion_real_basin.ipynb` | Real data application |
+| `model_1_constant_density_single_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic single sedimentary basin having fixed density contrast with and without noise case (Model 1) |
+| `model_2_constant_density_twin_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic twin sedimentary basin having fixed density contrast with and without noise case (Model 2) |
+| `model_3_variable_density_single_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic single sedimentary basin having varying density contrast with and without noise case (Model 3) |
+| `model_4_variable_density_twin_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic twin sedimentary basin having varying density contrast with and without noise case (Model 4) |
+| `noise_and_control_point_sensitivity_gravity_inversion_2D.ipynb` | Noise sensitivity and control-point sensitivity analysis for 2D gravity inversion |
 
 ---
 
