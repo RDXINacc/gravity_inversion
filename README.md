@@ -12,6 +12,7 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 | `poly_gravity.py` | 2D gravity forward modeling (constant density) |
 | `gravity3d1.py` | 3D gravity forward modeling (constant density) |
 | `gravity3d_variable_density1.py` | 3D gravity forward modeling (variable density) |
+| `gauss_fft_gravity_3d.py` | 3D gravity forward modeling|
 
 ---
 
