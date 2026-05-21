@@ -33,8 +33,6 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 If you use this code in your research, please cite the corresponding paper and give proper attribution to the authors.
 
 **Authors:**
-- Prof. Chandra Prakash Dubey — [p.dubey48@gmail.com](mailto:p.dubey48@gmail.com)
-- Geology and Geophysics Department, IIT Kharagpur, West Bengal, India
-- Mr. Rajdeep Das — [phmgleb@gmail.com](mailto:phmgleb@gmail.com)
-- Mr. Anurag Mondal — [24mc0016@iitism.ac.in](mailto:24mc0016@iitism.ac.in)
-- Department of Applied Geophysics, IIT (ISM) Dhanbad, Jharkhand, India
+- Prof. Chandra Prakash Dubey ([p.dubey48@gmail.com](mailto:p.dubey48@gmail.com)) — Geology and Geophysics Department, IIT Kharagpur, West Bengal, India
+- Mr. Rajdeep Das ([phmgleb@gmail.com](mailto:phmgleb@gmail.com)) — Department of Applied Geophysics, IIT (ISM) Dhanbad, Jharkhand, India
+- Mr. Anurag Mondal ([24mc0016@iitism.ac.in](mailto:24mc0016@iitism.ac.in)) — Department of Applied Geophysics, IIT (ISM) Dhanbad, Jharkhand, India
