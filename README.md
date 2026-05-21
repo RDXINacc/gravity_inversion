@@ -19,11 +19,12 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 
 | Notebook | Description |
 |----------|-------------|
+| `noise_and_control_point_sensitivity_gravity_inversion_2D.ipynb` | Noise sensitivity and control-point sensitivity analysis for 2D gravity inversion |
 | `model_1_constant_density_single_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic single sedimentary basin having fixed density contrast with and without noise case (Model 1) |
 | `model_2_constant_density_twin_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic twin sedimentary basin having fixed density contrast with and without noise case (Model 2) |
 | `model_3_variable_density_single_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic single sedimentary basin having varying density contrast with and without noise case (Model 3) |
 | `model_4_variable_density_twin_basin_pca.ipynb` | Calculates the inversion of gravity anomaly for a synthetic twin sedimentary basin having varying density contrast with and without noise case (Model 4) |
-| `noise_and_control_point_sensitivity_gravity_inversion_2D.ipynb` | Noise sensitivity and control-point sensitivity analysis for 2D gravity inversion |
+| `Inversion_real_basin.ipynb` | Real Basin Application |
 
 ---
 
@@ -32,5 +33,8 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 If you use this code in your research, please cite the corresponding paper and give proper attribution to the authors.
 
 **Authors:**
+- Prof. Chandra Prakash Dubey — [p.dubey48@gmail.com](email:p.dubey48@gmail.com)
+- Geology and Geophysics Department, IIT Kharagpur, West Bengal, India
 - Mr. Rajdeep Das — [phmgleb@gmail.com](mailto:phmgleb@gmail.com)
+- Mr. Anurag Mondal — [24mc0016@iitism.ac.in](mailto:24mc0016@iitism.ac.in)
 - Department of Applied Geophysics, IIT (ISM) Dhanbad, Jharkhand, India
